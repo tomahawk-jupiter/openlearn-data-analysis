@@ -1,0 +1,20 @@
+# Jupyter Notebook files
+*.ipynb_checkpoints/
+
+# JupyterLab workspace
+/lab/
+
+# JupyterLab settings
+/lab/*.log
+/lab/workspaces/
+
+# Python virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+__pycache__/
+venv/
+env/
